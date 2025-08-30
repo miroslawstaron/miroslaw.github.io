@@ -1,0 +1,20 @@
+miroslaw_staron:
+  name: "Miroslaw Staron"
+  avatar: "/assets/images/miroslaw.jpg"   # put an image there or remove this line
+  bio: "Professor of Software Engineering (Chalmers | University of Gothenburg). Research: software metrics, KPIs, AI in SE, empirical SE."
+  location: "Gothenburg, Sweden"
+  uri: "https://www.staron.nu"            # your personal domain
+  email: "miroslaw.staron@gu.se"
+  links:
+    - label: "Chalmers Profile"
+      icon: "fas fa-fw fa-university"
+      url: "https://www.chalmers.se/personer/miroslaw/"
+    - label: "GU Profile"
+      icon: "fas fa-fw fa-id-badge"
+      url: "https://www.gu.se/en/about/find-staff/miroslawstaron"
+    - label: "Blog (SE metrics)"
+      icon: "fas fa-fw fa-rss"
+      url: "https://metrics.blogg.gu.se/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.staron.nu"
