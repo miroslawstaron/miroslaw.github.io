@@ -1,0 +1,8 @@
+title: "Miroslaw Staron"
+description: "My personal site"
+url: "https://miroslawstaron.github.io"
+baseurl: "/miroslaw.github.io"   # because your site is a project site
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
