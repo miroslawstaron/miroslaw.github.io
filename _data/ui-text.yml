@@ -1,0 +1,9 @@
+en:
+  header:
+    title: "Miroslaw Staron"
+    tagline: "Software Engineering • Metrics • AI • Automotive"
+  contact:
+    email_label: "Email"
+    location_label: "Location"
+  breadcrumb:
+    home_label: "Home"
