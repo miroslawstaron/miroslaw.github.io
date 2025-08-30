@@ -8,8 +8,10 @@ header:
   overlay_filter: "0.4"
   overlay_image: /assets/images/header-gothenburg.jpg   # put a header image in this path or change/remove
   actions:
+    - label: "Blog"
+      url: "https://metrics.blogg.gu.se"
     - label: "Google Scholar"
-      url: "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"
+      url: "https://scholar.google.com/citations?user=oMZ1ucgAAAAJ&hl=sv"
     - label: "Chalmers Profile"
       url: "https://www.chalmers.se/personer/miroslaw/"
     - label: "GU Profile"
