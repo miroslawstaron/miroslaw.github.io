@@ -7,7 +7,7 @@ main:
   - title: "Teaching"
     url: /teaching/
   - title: "Publications"
-    url: "https://scholar.google.com/citations?user=oMZ1ucgAAAAJ&hl=sv"
+    url: https://scholar.google.com/citations?user=oMZ1ucgAAAAJ&hl=sv
     external: true
   - title: "Links"
     url: /links/
