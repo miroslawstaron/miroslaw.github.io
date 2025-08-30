@@ -1,0 +1,58 @@
+# Top masthead links
+main:
+  - title: "Home"
+    url: /              # -> /miroslaw.github.io/
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Publications"
+    children:
+      - title: "All Publications"
+        url: /publications/
+      - title: "Books"
+        url: /books/
+  - title: "Links"
+    url: /links/
+  - title: "Blog (SE metrics)"
+    url: https://metrics.blogg.gu.se/
+    external: true
+  - title: "Contact"
+    url: /contact/
+
+# Optional: sidebar menus you can assign per page with `sidebar: nav: research`
+research:
+  - title: "Research Overview"
+    url: /research/
+  - title: "Projects"
+    url: /research/projects/
+  - title: "Industry Collaboration"
+    url: /research/industry/
+  - title: "Students & Supervision"
+    url: /research/students/
+
+teaching:
+  - title: "Teaching Overview"
+    url: /teaching/
+  - title: "Courses"
+    url: /teaching/courses/
+  - title: "For Students"
+    url: /teaching/resources/
+
+publications:
+  - title: "All Publications"
+    url: /publications/
+  - title: "Books"
+    url: /books/
+  - title: "By Year"
+    url: /year-archive/
+  - title: "By Topic"
+    url: /tags/
+
+about:
+  - title: "About"
+    url: /about/
+  - title: "CV"
+    url: /cv/
+  - title: "Contact"
+    url: /contact/
