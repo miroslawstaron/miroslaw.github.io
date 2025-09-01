@@ -6,7 +6,7 @@ author_profile: false   # disable sidebar profile (we'll show a custom block ins
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /_assets/matrix-cropped.jpg
+  overlay_image: /assets/matrix-cropped.jpg
   actions:
     - label: "Google Scholar"
       url: "https://scholar.google.com/citations?user=oMZ1ucgAAAAJ"
@@ -19,7 +19,7 @@ intro:
   - excerpt: "Welcome to my homepage. I am Professor of Software Engineering with a focus on bridging research and practice. My work spans **software metrics, AI in software engineering, automotive systems, empirical SE**, and guiding industry collaborations."
 
 profile_row:
-  - image_path: /_assets/miroslaw.jpg
+  - image_path: /assets/miroslaw.jpg
     alt: "Miroslaw Staron"
     title: "Miroslaw Staron"
     excerpt: "Professor of Software Engineering | Chalmers & University of Gothenburg"
@@ -36,21 +36,21 @@ profile_row:
 
 
 feature_row:
-  - image_path: /_assets/research.png
+  - image_path: /assets/research.png
     alt: "Research"
     title: "Research"
     excerpt: "Learn about my research in software metrics, KPIs, AI, and empirical software engineering."
     url: "/research/"
     btn_label: "Read more"
     btn_class: "btn--primary"
-  - image_path: /_assets/teaching.png
+  - image_path: /assets/teaching.png
     alt: "Teaching"
     title: "Teaching"
     excerpt: "Courses, supervision, and teaching resources for students at Chalmers and GU."
     url: "/teaching/"
     btn_label: "See courses"
     btn_class: "btn--primary"
-  - image_path: /_assets/books.png
+  - image_path: /assets/books.png
     alt: "Publications"
     title: "Publications"
     excerpt: "My academic publications and books are available on Google Scholar."
