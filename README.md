@@ -7,7 +7,7 @@ header:
   header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: "{{ '/assets/matrix-cropped.jpg' | relative_url }}"
+  overlay_image: "{{ '/assets/cropped-matrix.jpg' | relative_url }}"
   actions:
     - label: "Blog"
       url: "https://metrics.blogg.gu.se"
@@ -35,6 +35,7 @@ feature_row:
     url: "/teaching/"
     btn_label: "See courses"
     btn_class: "btn--primary"
+    image_class: "icon-small"
   - image_path: /assets/book.png
     alt: "Publications"
     title: "Publications"
@@ -42,6 +43,7 @@ feature_row:
     url: "https://scholar.google.com/citations?user=oMZ1ucgAAAAJ"
     btn_label: "Google Scholar"
     btn_class: "btn--primary"
+    image_class: "icon-small"
 ---
 
 {% include feature_row id="profile_row" type="left" %}
