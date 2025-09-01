@@ -1,0 +1,8 @@
+---
+# Only the three dashes are front matter to tell Jekyll it should be processed
+---
+
+@import "minimal-mistakes/skins/default"; // pick your skin
+@import "minimal-mistakes";               // main theme styles
+
+@import "custom";  // 👈 this pulls in assets/css/custom.scss
