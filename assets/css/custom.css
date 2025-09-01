@@ -1,14 +1,5 @@
-.icon-small {
-  max-width: 16px;  /* adjust this number until you like the size */
-  height: auto;
-  margin: 0 auto;   /* keeps it centered */
-}
-
-/* Prevent feature_row icons from stretching */
 .feature__item img.icon-small {
-  width: auto !important;
-  height: auto !important;
-  max-width: none !important;
-  max-height: none !important;
+  width: auto;
+  height: auto;
   display: inline-block;
 }
