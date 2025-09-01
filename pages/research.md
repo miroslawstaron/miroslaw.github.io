@@ -14,6 +14,8 @@ description: "Research profile of Miroslaw Staron — focusing on AI for SE, sof
 I explore how **artificial intelligence, especially generative AI**, can support and transform software engineering practice.  
 My focus is on using AI for **automation, predictive analytics, testing, and debugging** in large-scale industrial contexts.
 
+- **Machine Learning Infrastructure and Best Practices for Software Engineers** - *Packt, 2024*
+  [Link](https://www.amazon.co.uk/Learning-Infrastructure-Practices-Software-Engineers-ebook/dp/B0CQG9K99S/ref=sr_1_1?dib=eyJ2IjoiMSJ9.ts2EDhbeglww5MdM_t5Uyg._-3_cfMs2_w2eBbfFcAwoXTSdeALGlBJSPykWxZivkg&dib_tag=se&keywords=9781837636945&linkCode=qs&qid=1756713698&s=books&sr=1-1)
 - **Exploring Generative AI in Automated Software Engineering** — *IEEE Software, 2025.*  
   [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10952968)  
 - **Design pattern recognition: a study of large language models** — *Empirical Software Engineering, 2024.*  
@@ -25,6 +27,8 @@ My focus is on using AI for **automation, predictive analytics, testing, and deb
 I investigate the **design and evolution of large-scale software architectures**, with a special interest in **AI-enabled and automotive systems**.  
 My research combines empirical studies with industry collaborations to understand how architectural choices affect quality and long-term maintainability.
 
+- **Automotive Software Architectures** - *Springer*
+  [Link](https://link.springer.com/content/pdf/10.1007/978-3-030-65939-4.pdf)
 - **Modeling and Architecting of Complex Software Systems** — *IEEE Software, 2024.*  
   [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10493160)  
 - **Design Patterns Understanding and Use in the Automotive Industry: An Interview Study** — *LNCS, 2024.*  
@@ -36,11 +40,20 @@ My research combines empirical studies with industry collaborations to understan
 A central thread in my work is the development and evaluation of **software measurement systems**.  
 I study how **metrics and KPIs** can support **decision-making, process improvement, and quality assurance** in real-world industrial environments.
 
+- **Software Development Measurement Programs** - *Springer, 2018*
+  [Link](https://link.springer.com/content/pdf/10.1007/978-3-319-91836-5.pdf)
 - **A framework for developing measurement systems and its industrial evaluation** — *Information and Software Technology, 2009.*  
   [Link](https://www.sciencedirect.com/science/article/pii/S0950584908001419?casa_token=sAQX3dARjjQAAAAA:-ptBCPds-ekaSefiJySILnfgCPraOhbHie-vog30urYfaEWe9iqTnvSBwrG_fDU__cYYsLzxLA)  
 - **Developing measurement systems: an industrial case study** — *Journal of Software Maintenance and Evolution, 2011.*  
   [Link](https://onlinelibrary.wiley.com/doi/pdf/10.1002/smr.470)
 
+---
+### Research methodology - Action Research
+My methodology of choice is Action research, although I did my share of work with experimentation and case studies. 
+- **Action Research in Software Engineering** - *Springer*
+  [Link](https://link.springer.com/content/pdf/10.1007/978-3-030-32610-4.pdf)
+- **Guidelines for conducting Action Research Studies in Software Engineering** - *Springer*
+  [Link](https://www.e-informatyka.pl/index.php/einformatica/volumes/volume-2025/issue-1/article-5/)
 ---
 
 ### Software Engineering in Medicine
