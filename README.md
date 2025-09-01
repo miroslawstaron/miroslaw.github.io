@@ -28,14 +28,6 @@ feature_row:
     btn_label: "Read more"
     btn_class: "btn--primary"
     image_class: "icon-small"
-  - image_path: /assets/teacher.png
-    alt: "Teaching"
-    title: "Teaching"
-    excerpt: "Courses, supervision, and teaching resources for students at Chalmers and GU."
-    url: "/teaching/"
-    btn_label: "See courses"
-    btn_class: "btn--primary"
-    image_class: "icon-small"
   - image_path: /assets/book.png
     alt: "Publications"
     title: "Publications"
