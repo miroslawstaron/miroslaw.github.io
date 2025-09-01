@@ -8,8 +8,8 @@ header:
   overlay_filter: "0.4"
   overlay_image: /assets/matrix-cropped.jpg
   actions:
-    - label: "Google Scholar"
-      url: "https://scholar.google.com/citations?user=oMZ1ucgAAAAJ"
+    - label: "Blog"
+      url: "https://metrics.blogg.gu.se"
     - label: "Chalmers Profile"
       url: "https://www.chalmers.se/personer/miroslaw/"
     - label: "GU Profile"
