@@ -8,8 +8,6 @@ toc_sticky: true
 description: "Research profile of Miroslaw Staron — focusing on AI for SE, software architectures, software metrics, and software engineering in medicine."
 ---
 
-## Research Areas & Representative Publications
-
 ### AI for Software Engineering
 I explore how **artificial intelligence, especially generative AI**, can support and transform software engineering practice.  
 My focus is on using AI for **automation, predictive analytics, testing, and debugging** in large-scale industrial contexts.
