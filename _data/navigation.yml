@@ -4,8 +4,8 @@ main:
     url: /              # -> /miroslaw.github.io/
   - title: "Research"
     url: /research/
-  - title: "Teaching"
-    url: /teaching/
+  - title: "PhD courses"
+    url: /PhD_metrics/
   - title: "Publications"
     url: https://scholar.google.com/citations?user=oMZ1ucgAAAAJ&hl=sv
     external: true
