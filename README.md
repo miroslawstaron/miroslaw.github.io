@@ -26,6 +26,7 @@ feature_row:
     url: "/research/"
     btn_label: "Read more"
     btn_class: "btn--primary"
+    image_class: "icon-small"
   - image_path: /assets/teacher.png
     alt: "Teaching"
     title: "Teaching"

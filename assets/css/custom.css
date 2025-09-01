@@ -1,0 +1,5 @@
+.icon-small {
+  max-width: 80px;  /* adjust this number until you like the size */
+  height: auto;
+  margin: 0 auto;   /* keeps it centered */
+}

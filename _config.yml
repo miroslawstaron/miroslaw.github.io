@@ -8,4 +8,4 @@ plugins:
   - jekyll-include-cache
 
 include:
-  - _assets
+  - assets/css/custom.css
