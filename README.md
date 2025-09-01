@@ -4,9 +4,10 @@ title: "Miroslaw Staron"
 permalink: /
 author_profile: false   # disable sidebar profile (we'll show a custom block instead)
 header:
+  header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/matrix-cropped.jpg
+  overlay_image: "{{ '/assets/matrix-cropped.jpg' | relative_url }}"
   actions:
     - label: "Blog"
       url: "https://metrics.blogg.gu.se"
