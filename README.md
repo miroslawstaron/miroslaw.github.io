@@ -7,7 +7,7 @@ header:
   header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: "{{ '/assets/cropped-matrix.jpg' | relative_url }}"
+  overlay_image: /assets/cropped-matrix.jpg
   actions:
     - label: "Blog"
       url: "https://metrics.blogg.gu.se"

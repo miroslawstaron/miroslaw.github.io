@@ -9,8 +9,6 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=oMZ1ucgAAAAJ&hl=sv
     external: true
-  - title: "Links"
-    url: /links/
   - title: "Blog (SE metrics)"
     url: https://metrics.blogg.gu.se/
     external: true
