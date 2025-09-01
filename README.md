@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/header-gothenburg.jpg   # put a header image in this path or change/remove
+  overlay_image: /_assets/matrix-cropped.jpg   # put a header image in this path or change/remove
   actions:
     - label: "Blog"
       url: "https://metrics.blogg.gu.se"
