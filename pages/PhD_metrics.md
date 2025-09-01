@@ -1,3 +1,13 @@
+---
+layout: single
+title: "PhD course in metrics"
+permalink: /PhD_metrics/
+author_profile: true
+toc: true
+toc_sticky: true
+description: "PhD Courses in metrics"
+---
+
 # PhD course: Software Development Measurement Programs: from theory to practice: PhD Course, 10 HP/ECTS
 
 ## Introduction
