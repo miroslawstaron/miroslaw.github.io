@@ -3,3 +3,12 @@
   height: auto;
   margin: 0 auto;   /* keeps it centered */
 }
+
+/* Prevent feature_row icons from stretching */
+.feature__item img.icon-small {
+  width: auto !important;
+  height: auto !important;
+  max-width: none !important;
+  max-height: none !important;
+  display: inline-block;
+}
