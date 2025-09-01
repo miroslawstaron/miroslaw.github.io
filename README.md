@@ -20,21 +20,21 @@ excerpt: "Professor of Software Engineering at Chalmers and University of Gothen
 intro: 
   - excerpt: "Welcome to my homepage. I am Professor of Software Engineering with a focus on bridging research and practice. My work spans **software metrics, AI in software engineering, automotive systems, empirical SE**, and guiding industry collaborations."
 feature_row:
-  - image_path: /assets/images/research.jpg
+  - image_path: /_assets/research.jpg
     alt: "Research"
     title: "Research"
     excerpt: "Learn about my research in software metrics, KPIs, AI, and empirical software engineering."
     url: "/research/"
     btn_label: "Read more"
     btn_class: "btn--primary"
-  - image_path: /assets/images/teaching.jpg
+  - image_path: /_assets/teaching.jpg
     alt: "Teaching"
     title: "Teaching"
     excerpt: "Courses, supervision, and teaching resources for students at Chalmers and GU."
     url: "/teaching/"
     btn_label: "See courses"
     btn_class: "btn--primary"
-  - image_path: /assets/images/publications.jpg
+  - image_path: /_assets/books.jpg
     alt: "Publications"
     title: "Publications"
     excerpt: "My academic publications and books are available on Google Scholar."
