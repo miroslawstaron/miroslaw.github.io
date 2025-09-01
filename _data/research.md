@@ -15,9 +15,9 @@ I explore how **artificial intelligence, especially generative AI**, can support
 My focus is on using AI for **automation, predictive analytics, testing, and debugging** in large-scale industrial contexts.
 
 - **Exploring Generative AI in Automated Software Engineering** — *IEEE Software, 2025.*  
-  [Link](https://research.chalmers.se/en/person/miroslaw)  
-- **Testing, Debugging, and Log Analysis With Modern AI Tools** — *IEEE Software, 2024.*  
-  [Link](https://research.tue.nl/en/publications/testing-debugging-and-log-analysis-with-modern-ai-tools)
+  [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10952968)  
+- **Design pattern recognition: a study of large language models** — *Empirical Software Engineering, 2024.*  
+  [Link](https://link.springer.com/article/10.1007/s10664-025-10625-1)
 
 ---
 
@@ -26,9 +26,9 @@ I investigate the **design and evolution of large-scale software architectures**
 My research combines empirical studies with industry collaborations to understand how architectural choices affect quality and long-term maintainability.
 
 - **Modeling and Architecting of Complex Software Systems** — *IEEE Software, 2024.*  
-  [Link](https://research.chalmers.se/en/person/miroslaw)  
+  [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10493160)  
 - **Design Patterns Understanding and Use in the Automotive Industry: An Interview Study** — *LNCS, 2024.*  
-  [Link](https://research.chalmers.se/en/person/miroslaw)
+  [Link](https://drive.google.com/file/d/181TvxXpL5KypZGj1YR7xcZo8pgSow15_/view)
 
 ---
 
@@ -37,9 +37,9 @@ A central thread in my work is the development and evaluation of **software meas
 I study how **metrics and KPIs** can support **decision-making, process improvement, and quality assurance** in real-world industrial environments.
 
 - **A framework for developing measurement systems and its industrial evaluation** — *Information and Software Technology, 2009.*  
-  [Link](https://scholar.google.com/citations?hl=en&user=oMZ1ucgAAAAJ)  
+  [Link](https://www.sciencedirect.com/science/article/pii/S0950584908001419?casa_token=sAQX3dARjjQAAAAA:-ptBCPds-ekaSefiJySILnfgCPraOhbHie-vog30urYfaEWe9iqTnvSBwrG_fDU__cYYsLzxLA)  
 - **Developing measurement systems: an industrial case study** — *Journal of Software Maintenance and Evolution, 2011.*  
-  [Link](https://scholar.google.com/citations?hl=en&user=oMZ1ucgAAAAJ)
+  [Link](https://onlinelibrary.wiley.com/doi/pdf/10.1002/smr.470)
 
 ---
 
@@ -48,8 +48,7 @@ I apply methods from **software engineering and AI** to the medical domain, espe
 This research bridges **machine learning, medical informatics, and software engineering** to improve patient care and data-driven decision support.
 
 - **Comparing Machine Learning Algorithms for Medical Time-Series Data** — *LNCS, 2024.*  
-  [Link](https://research.chalmers.se/en/person/miroslaw)  
-- *(Add second representative publication here if available — for example, another ML/medicine collaboration.)*
+  [Link](https://link.springer.com/chapter/10.1007/978-3-031-49266-2_14)  
 
 ---
 
